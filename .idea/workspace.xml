@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e307ba2-0a86-4983-a4c8-c9d591e20b97" name="Changes" comment="" />
+    <list default="true" id="6e307ba2-0a86-4983-a4c8-c9d591e20b97" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Sample/src/main/resources/SampleInputOutput/sample_problem_sample_ts1_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sample/src/main/resources/SampleInputOutput/sample_problem_sample_ts1_output.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,5 +37,16 @@
       <updated>1656704525446</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
