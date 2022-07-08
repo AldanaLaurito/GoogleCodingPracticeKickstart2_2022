@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class SolutionGoogle {
   // Object for Input
   static Scanner inputObject = new Scanner(System.in);
 

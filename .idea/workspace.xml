@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e307ba2-0a86-4983-a4c8-c9d591e20b97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Sample/src/main/resources/SampleInputOutput/sample_problem_sample_ts1_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sample/src/main/resources/SampleInputOutput/sample_problem_sample_ts1_output.txt" beforeDir="false" />
+    <list default="true" id="6e307ba2-0a86-4983-a4c8-c9d591e20b97" name="Changes" comment="[main] Sample input and output is put in the readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sample/src/main/java/samples_sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sample/src/main/java/SolutionGoogle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GlamitProjectTest" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +36,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656704525446</updated>
     </task>
+    <task id="LOCAL-00001" summary="[main] Sample input and output is put in the readme">
+      <created>1656705671904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656705671904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -48,5 +56,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[main] Sample input and output is put in the readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="[main] Sample input and output is put in the readme" />
   </component>
 </project>
